@@ -25,13 +25,13 @@ This course has the following software requirements:
 <LI>	Mongoose
 <LI>	Jest Testing Software
 <LI>	Node.js version 8+
-<LI>	MongoDB <LI>
+<LI>	MongoDB </LI>
 
 This course has been tested on the following system configuration:
 <LI>	OS: Any modern OS (Windows, Mac, or Linux)
 <LI>	RAM: minimum required for the Operating System
 <LI>	CPU: minimum required for the Operating System
-<LI>	Storage: 1GB free space for MongoDB and tools<LI>
+<LI>	Storage: 1GB free space for MongoDB and tools</LI>
 
 
 ## Related Products
