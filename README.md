@@ -22,16 +22,16 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 	basic familiarity with Javascript
 ### Technical Requirements
 This course has the following software requirements:
-	Mongoose
-	Jest Testing Software
-	Node.js version 8+
-	MongoDB
+<LI>	Mongoose
+<LI>	Jest Testing Software
+<LI>	Node.js version 8+
+<LI>	MongoDB <LI>
 
 This course has been tested on the following system configuration:
-	OS: Any modern OS (Windows, Mac, or Linux)
-	RAM: minimum required for the Operating System
-	CPU: minimum required for the Operating System
-	Storage: 1GB free space for MongoDB and tools
+<LI>	OS: Any modern OS (Windows, Mac, or Linux)
+<LI>	RAM: minimum required for the Operating System
+<LI>	CPU: minimum required for the Operating System
+<LI>	Storage: 1GB free space for MongoDB and tools<LI>
 
 
 ## Related Products
