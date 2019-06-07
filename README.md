@@ -1,41 +1,43 @@
-# Unity 5 for Beginners [Video]
-This is the code repository for [Unity 5 for Beginners [Video]](https://www.packtpub.com/game-development/unity-5-beginners-video?utm_source=github&utm_medium=repository&utm_campaign=9781785286346), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Hands-On Developers Guide to MongoDB 4.0 [Video]
+This is the code repository for [Hands-On Developers Guide to MongoDB 4.0 [Video]](https://www.packtpub.com/virtualization-and-cloud/hands-developers-guide-mongodb-40-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-Unity Fundamentals is an easy-to-follow exploration of the Unity foundations. It covers the core features every developer needs to know to work effectively. Using practical and hands-on examples, Alan Thorn explores how Unity can be applied creatively to build exciting games that sell.
+MongoDB is one of the best database management systems out there for large applications. It makes data easy to work with. Ad hoc queries, indexing, and a robust aggregation framework provides powerful ways to access and analyze your data. 
+
+This course will help you become proficient in using MongoDB for your applications and handling its data. We’ll take a test-driven approach to the NodeJS environment with Jest to explore all the features that MongoDB has to offer. Throughout the course, we’ll build a taxi aggregator database, simulate real-world challenges, and solve them with MongoDB. 
+
+By the end of the course, you’ll be confident to work with MongoDB as a developer and integrate MongoDB into your projects.
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Understand the foundations of Unity 
-<LI>Work confidently in the Unity interface 
-<LI>Understand Level Design tools 
-<LI>Learn how to create interactive 3D Worlds 
-<LI>Work with meshes, animations, materials, textures, and more 
-<LI>Learn how to build a simple game 
-<LI>Explore useful tips and tricks for accelerating your workflow 
-<LI>Getting started at creating game logic and functionality </LI></UL></DIV>
+<LI>Understand the concepts and principles of MongoDB using a test-driven approach
+<LI>Design an effective NoSQL schema with both data nesting and referencing 
+<LI>Work with the most popular MongoDB interface, Mongoose JS
+<LI>Write tests around MongoDB queries using CRUD operations
+<LI> Integrate MongoDB, Node, and Jest into your applications seamlessly </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Unity Fundamentals is targeted at complete newcomers to the Unity engine, including students and hobbyists seeking to enter the games industry. This course requires no previous Unity or game development experience.	
+	basic familiarity with Javascript
 ### Technical Requirements
-This course has the following software requirements:<br/>
-Software Required (With version mentioned)
+This course has the following software requirements:
+	Mongoose
+	Jest Testing Software
+	Node.js version 8+
+	MongoDB
 
-Unity version 5.6 or higher
+This course has been tested on the following system configuration:
+	OS: Any modern OS (Windows, Mac, or Linux)
+	RAM: minimum required for the Operating System
+	CPU: minimum required for the Operating System
+	Storage: 1GB free space for MongoDB and tools
 
-OS required
-
-Windows 7, 8, or 10
-(64-bit)
-Mac OS X 10.9 or
-higher
 
 ## Related Products
-* [Introduction To Unity® For Absolute Beginners [Video]](https://www.packtpub.com/application-development/introduction-to-unity-for-absolute-beginners-video?utm_source=github&utm_medium=repository&utm_campaign=9781838648718)
+* [Hands-On Spring Security 5.x [Video]](https://www.packtpub.com/application-development/hands-spring-security-5x-video)
 
-* [PowerShell Core 6.1 for Linux [Video]](https://www.packtpub.com/virtualization-and-cloud/powershell-core-61-linux-video?utm_source=github&utm_medium=repository&utm_campaign=9781838559595)
+* [Hands-On Deep Learning with TensorFlow 2.0 [Video]](https://www.packtpub.com/application-development/hands-deep-learning-tensorflow-20-video)
 
-* [Learning Linux 5 for System Administration [Video]](https://www.packtpub.com/networking-and-servers/learning-linux-5-system-administration-video?utm_source=github&utm_medium=repository&utm_campaign=9781838641634)
+* [Java for beginners: Step-by-step hands-on guide to Java [Video]](https://www.packtpub.com/application-development/java-beginners-step-step-hands-guide-java-video)
 
